@@ -97,6 +97,18 @@
   </url>
 
   <url>
+    <loc>https://solarpunkguide.wiki/guides/water-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://solarpunkguide.wiki/guides/food-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://solarpunkguide.wiki/mechanics/tech-tree-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
