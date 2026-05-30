@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /article-template.html
+
+# Crawl-delay is polite to smaller servers but unnecessary on Cloudflare.
+# Uncomment if needed:
+# Crawl-delay: 10
+
+Sitemap: https://solarpunkguide.wiki/sitemap.xml
+
+# Block AI training bots (optional — keep or remove as you prefer)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
