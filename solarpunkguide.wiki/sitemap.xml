@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- ═══════════════ Primary Pages ═══════════════ -->
-  <url><loc>https://solarpunkguide.wiki/</loc><lastmod>2026-06-08</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://solarpunkguide.wiki/guides</loc><lastmod>2026-06-08</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://solarpunkguide.wiki/</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://solarpunkguide.wiki/guides</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://solarpunkguide.wiki/about</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://solarpunkguide.wiki/contact</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://solarpunkguide.wiki/privacy-policy</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+
+  <!-- ═══════════════ Beginner Guides — June 23, 2026 (1) ═══════════════ -->
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-mid-game-guide</loc><lastmod>2026-06-23</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   <!-- ═══════════════ Beginner Guides — June 8, 2026 (5) ═══════════════ -->
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-launch-review</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -14,7 +17,10 @@
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-faq-common-issues</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-launch-livestream-dev-qa</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
-  <!-- ═══════════════ Beginner Guides — May 30 / June 3 (16) ═══════════════ -->
+  <!-- ═══════════════ Beginner Guides — June 3, 2026 (1) ═══════════════ -->
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-beginner-mega-guide-zero-to-mastery</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- ═══════════════ Beginner Guides — May 30, 2026 (14) ═══════════════ -->
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-game-overview-build-explore-thrive</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-complete-game-overview</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-release-date-platforms-languages</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -29,29 +35,31 @@
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-beginner-roadmap-3-hour-start</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-co-op-roles-teamwork-guide</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-beginner-basics-controls</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-beginner-mega-guide-zero-to-mastery</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- ═══════════════ Crafting (3) ═══════════════ -->
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-crafting-database-recipes-materials</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-resources-locations-uses</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-crafting-recipes-all-items</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-crafting-database-recipes-materials</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <!-- ═══════════════ Building (3) ═══════════════ -->
-  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-base-building-design-guide</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- ═══════════════ Building (4) ═══════════════ -->
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-mega-base-building-tutorial</loc><lastmod>2026-06-23</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-building-database-structures-power</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-best-base-designs-weekly-showcase-1</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-base-building-design-guide</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <!-- ═══════════════ Exploration (2) ═══════════════ -->
-  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-exploration-biomes-guide</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- ═══════════════ Exploration (3) ═══════════════ -->
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-rare-resources-guide</loc><lastmod>2026-06-23</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-trading-guide-merchant-prices</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-exploration-biomes-guide</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- ═══════════════ Farming (1) ═══════════════ -->
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-farming-sustainability-guide</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <!-- ═══════════════ Technology (3) ═══════════════ -->
+  <!-- ═══════════════ Technology (4) ═══════════════ -->
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-energy-system-complete-guide</loc><lastmod>2026-06-23</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-tech-tree-complete-catalog</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-tech-tree-unlock-order</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-technology-power-energy-guide</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://solarpunkguide.wiki/articles/solarpunk-tech-tree-complete-catalog</loc><lastmod>2026-06-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- ═══════════════ Airships (1) ═══════════════ -->
   <url><loc>https://solarpunkguide.wiki/articles/solarpunk-airships-vehicles-guide</loc><lastmod>2026-05-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
